@@ -62,3 +62,4 @@ These datasets are joined using the product_id field to perform meaningful analy
 - **Power Query** (For data cleaning and transformation)
 
 ## ## 📷 Dashboard Preview
+![Power BI dashboard](url_of_image)
